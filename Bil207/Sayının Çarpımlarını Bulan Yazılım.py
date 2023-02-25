@@ -13,4 +13,4 @@ for i in range(1,sayi+1):
     else :
         i+1
 
-print("Toplam " + str(carpim_sayaci) + " farklı çarpım bulunamamıştır.")
+print("Toplam " + str(carpim_sayaci) + " farklı çarpım bulunmuştur.")

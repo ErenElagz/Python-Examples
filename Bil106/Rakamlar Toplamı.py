@@ -1,5 +1,3 @@
-print("Girilen Sayıların Basamaklarını Bulan Program")
-
 sayi = input("Lütfen Sayı Giriniz: ")
 toplam = 0
 
